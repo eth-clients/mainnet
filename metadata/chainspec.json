@@ -195,8 +195,8 @@
     "eip6110TransitionTimestamp": "0x681B3057",
     "eip7002TransitionTimestamp": "0x681B3057",
     "eip7251TransitionTimestamp": "0x681B3057",
-    "eip7702TransitionTimestamp": "0x681B3057",
     "eip7623TransitionTimestamp": "0x681B3057",
+    "eip7702TransitionTimestamp": "0x681B3057",
     "depositContractAddress": "0x00000000219ab540356cBB839Cbe05303d7705Fa",
     "terminalTotalDifficulty": "C70D808A128D7380000",
     "blobSchedule": {
