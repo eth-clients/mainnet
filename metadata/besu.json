@@ -16,7 +16,20 @@
     "terminalTotalDifficulty": 58750000000000000000000,
     "shanghaiTime": 1681338455,
     "cancunTime": 1710338135,
-    "ethash": {
+    "pragueTime": 1746612311,
+    "ethash": {},
+    "depositContractAddress": "0x00000000219ab540356cBB839Cbe05303d7705Fa",
+    "blobSchedule": {
+      "cancun": {
+        "target": 3,
+        "max": 6,
+        "baseFeeUpdateFraction": 3338477
+      },
+      "prague": {
+        "target": 6,
+        "max": 9,
+        "baseFeeUpdateFraction": 5007716
+      }
     },
     "discovery": {
       "dns": "enrtree://AKA3AM6LPBYEUDMVNU3BSVQJ5AD45Y7YPOHJLEF6W26QOE4VTUDPE@all.mainnet.ethdisco.net",
