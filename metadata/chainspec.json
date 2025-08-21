@@ -185,32 +185,32 @@
     "eip3855TransitionTimestamp": "0x64373057",
     "eip3860TransitionTimestamp": "0x64373057",
     "eip4895TransitionTimestamp": "0x64373057",
-    "eip1153TransitionTimestamp": "0x65F1B057",
-    "eip4788TransitionTimestamp": "0x65F1B057",
-    "eip4844TransitionTimestamp": "0x65F1B057",
-    "eip5656TransitionTimestamp": "0x65F1B057",
-    "eip6780TransitionTimestamp": "0x65F1B057",
-    "eip2537TransitionTimestamp": "0x681B3057",
-    "eip2935TransitionTimestamp": "0x681B3057",
-    "eip6110TransitionTimestamp": "0x681B3057",
-    "eip7002TransitionTimestamp": "0x681B3057",
-    "eip7251TransitionTimestamp": "0x681B3057",
-    "eip7623TransitionTimestamp": "0x681B3057",
-    "eip7702TransitionTimestamp": "0x681B3057",
+    "eip1153TransitionTimestamp": "0x65f1b057",
+    "eip4788TransitionTimestamp": "0x65f1b057",
+    "eip4844TransitionTimestamp": "0x65f1b057",
+    "eip5656TransitionTimestamp": "0x65f1b057",
+    "eip6780TransitionTimestamp": "0x65f1b057",
+    "eip2537TransitionTimestamp": "0x681b3057",
+    "eip2935TransitionTimestamp": "0x681b3057",
+    "eip6110TransitionTimestamp": "0x681b3057",
+    "eip7002TransitionTimestamp": "0x681b3057",
+    "eip7251TransitionTimestamp": "0x681b3057",
+    "eip7623TransitionTimestamp": "0x681b3057",
+    "eip7702TransitionTimestamp": "0x681b3057",
     "depositContractAddress": "0x00000000219ab540356cBB839Cbe05303d7705Fa",
-    "terminalTotalDifficulty": "C70D808A128D7380000",
+    "terminalTotalDifficulty": "0xc70d808a128d7380000",
     "blobSchedule": [
       {
-        "timestamp": "0x65F1B057",
+        "timestamp": "0x65f1b057",
         "target": 3,
         "max": 6,
-        "baseFeeUpdateFraction": "0x32F0ED"
+        "baseFeeUpdateFraction": "0x32f0ed"
       },
       {
-        "timestamp": "0x681B3057",
+        "timestamp": "0x681b3057",
         "target": 6,
         "max": 9,
-        "baseFeeUpdateFraction": "0x4C6964"
+        "baseFeeUpdateFraction": "0x4c6964"
       }
     ]
   },
