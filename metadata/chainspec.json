@@ -199,18 +199,20 @@
     "eip7702TransitionTimestamp": "0x681B3057",
     "depositContractAddress": "0x00000000219ab540356cBB839Cbe05303d7705Fa",
     "terminalTotalDifficulty": "C70D808A128D7380000",
-    "blobSchedule": {
-      "cancun": {
+    "blobSchedule": [
+      {
+        "timestamp": "0x65F1B057",
         "target": 3,
         "max": 6,
-        "baseFeeUpdateFraction": 3338477
+        "baseFeeUpdateFraction": "0x32F0ED"
       },
-      "prague": {
+      {
+        "timestamp": "0x681B3057",
         "target": 6,
         "max": 9,
-        "baseFeeUpdateFraction": 5007716
+        "baseFeeUpdateFraction": "0x4C6964"
       }
-    }
+    ]
   },
   "genesis": {
     "seal": {
