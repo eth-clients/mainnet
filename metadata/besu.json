@@ -17,6 +17,9 @@
     "shanghaiTime": 1681338455,
     "cancunTime": 1710338135,
     "pragueTime": 1746612311,
+    "osakaTime": 1764798551,
+    "bpo1Time": 1765978199,
+    "bpo2Time": 1767747671,
     "ethash": {},
     "depositContractAddress": "0x00000000219ab540356cBB839Cbe05303d7705Fa",
     "withdrawalRequestContractAddress": "0x00000961ef480eb55e80d19ad83579a64c007002",
@@ -31,6 +34,21 @@
         "target": 6,
         "max": 9,
         "baseFeeUpdateFraction": 5007716
+      },
+      "osaka": {
+        "target": 6,
+        "max": 9,
+        "baseFeeUpdateFraction": 5007716
+      },
+      "bpo1": {
+        "target": 10,
+        "max": 15,
+        "baseFeeUpdateFraction": 8346193
+      },
+      "bpo2": {
+        "target": 14,
+        "max": 21,
+        "baseFeeUpdateFraction": 11684671
       }
     },
     "discovery": {
