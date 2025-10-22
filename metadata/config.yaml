@@ -198,7 +198,7 @@ MIN_EPOCHS_FOR_DATA_COLUMN_SIDECARS_REQUESTS: 4096
 # ---------------------------------------------------------------
 
 BLOB_SCHEDULE:
-  - EPOCH: 414464 # December 17, 2025, 01:29:59pm UTC
+  - EPOCH: 414464  # December 17, 2025, 01:29:59pm UTC
     MAX_BLOBS_PER_BLOCK: 15
-  - EPOCH: 419072 # January 7, 2026, 01:01:11am UTC
+  - EPOCH: 419072  # January 7, 2026, 01:01:11am UTC
     MAX_BLOBS_PER_BLOCK: 21
